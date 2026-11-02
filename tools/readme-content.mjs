@@ -23,13 +23,7 @@ export const SURVEY = {
     ["Ziyang Luo", [2]],
     ["Hongzhan Lin", [1], "†"],
   ],
-  affiliations: [
-    "National University of Singapore",
-    "Hong Kong Baptist University",
-    "The Chinese University of Hong Kong",
-    "University of Waterloo",
-    "The Australian National University",
-  ],
+  affiliations: ["NUS", "HKBU", "CUHK", "UWaterloo", "ANU"],
   contact: ["mluo@u.nus.edu", "danielhzlin@nus.edu.sg"],
   bibtexKey: "luo2026longhorizonswe",
 };

@@ -9,7 +9,7 @@
   <a href="https://awesome.re"><img src="https://awesome.re/badge-flat2.svg" alt="Awesome" height="18"></a>
 
   <p>Meng&nbsp;Luo<sup>1*</sup> · Yanlin&nbsp;Li<sup>1*</sup> · Kaixin&nbsp;Li<sup>1</sup> · Yuchen&nbsp;Tian<sup>2</sup> · Shidong&nbsp;Cao<sup>2</sup> · Yanyu&nbsp;Chen<sup>3</sup> · Xiangru&nbsp;Jian<sup>4</sup> · Yan&nbsp;Yang<sup>5</sup> · Pengfei&nbsp;Zhou<sup>1</sup> · Ziyang&nbsp;Luo<sup>2</sup> · Hongzhan&nbsp;Lin<sup>1†</sup></p>
-  <p><sub><sup>1</sup>&nbsp;National&nbsp;University&nbsp;of&nbsp;Singapore &nbsp;·&nbsp; <sup>2</sup>&nbsp;Hong&nbsp;Kong&nbsp;Baptist&nbsp;University &nbsp;·&nbsp; <sup>3</sup>&nbsp;The&nbsp;Chinese&nbsp;University&nbsp;of&nbsp;Hong&nbsp;Kong &nbsp;·&nbsp; <sup>4</sup>&nbsp;University&nbsp;of&nbsp;Waterloo &nbsp;·&nbsp; <sup>5</sup>&nbsp;The&nbsp;Australian&nbsp;National&nbsp;University</sub></p>
+  <p><sub><sup>1</sup>&nbsp;NUS &nbsp;·&nbsp; <sup>2</sup>&nbsp;HKBU &nbsp;·&nbsp; <sup>3</sup>&nbsp;CUHK &nbsp;·&nbsp; <sup>4</sup>&nbsp;UWaterloo &nbsp;·&nbsp; <sup>5</sup>&nbsp;ANU</sub></p>
   <p><sub>* Equal contribution &nbsp;·&nbsp; † Corresponding author &nbsp;·&nbsp; <a href="mailto:mluo@u.nus.edu">mluo@u.nus.edu</a>, <a href="mailto:danielhzlin@nus.edu.sg">danielhzlin@nus.edu.sg</a></sub></p>
 </div>
 
