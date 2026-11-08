@@ -199,7 +199,7 @@ export function renderReadme(references) {
     "",
     `<p align="center">${more.map((title) => `<a href="#${anchor(title)}">${html(title)}</a>`).join(" &nbsp;·&nbsp; ")}</p>`,
     "",
-    `<p align="center"><sub>Survey resources: <a href="${REPO_URL}">Awesome-LongHorizonSWE</a> &nbsp;·&nbsp; Website: <a href="${WEBSITE_REPO_URL}">longhorizonswe.github.io</a></sub></p>`,
+    `<p align="center"><sub>Survey resources: <a href="${REPO_URL}">Awesome-LongHorizonSWE</a> &nbsp;·&nbsp; Website: <a href="${WEBSITE_REPO_URL}">LongHorizonSWE.github.io</a></sub></p>`,
     "",
     "---",
     "",

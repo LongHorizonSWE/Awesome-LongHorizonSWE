@@ -1,9 +1,9 @@
 // Survey content shown in the README, taken from the manuscript with the authors' approval.
 // Keep wording in step with the manuscript; tools/render-readme.mjs lays it out.
 
-export const SITE_URL = "https://longhorizonswe.github.io/";
+export const SITE_URL = "https://LongHorizonSWE.github.io/";
 export const REPO_URL = "https://github.com/LongHorizonSWE/Awesome-LongHorizonSWE";
-export const WEBSITE_REPO_URL = "https://github.com/LongHorizonSWE/longhorizonswe.github.io";
+export const WEBSITE_REPO_URL = "https://github.com/LongHorizonSWE/LongHorizonSWE.github.io";
 
 export const SURVEY = {
   title: "Long-Horizon Software Engineering Agents",
